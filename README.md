@@ -1,5 +1,5 @@
 # Udacity-Project-AB--Testing
-Udacity Data Analytics Nanodegree Project 04 - Exploring Gapminder Data using Python
+This project is part of Udacity's Data Analyst Nanodegree
 
 ***
 
