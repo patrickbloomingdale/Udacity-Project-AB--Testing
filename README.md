@@ -31,11 +31,11 @@ The jupyter notebook will be exported to HTML and submitted as a github reposito
 ***
 
 ## Project files
-- ab_data.csv
-- countries.csv
-- Analyze_ab_test_results_notebook_template.ipynb
-- Analyze_ab_test_results_notebook_final.ipynb
-- Analyze_ab_test_results_notebook_final.html
+- **ab_data.csv** - dataset used for analysis
+- **countries.csv** - dataset used for analysis
+- **Analyze_ab_test_results_notebook_template.ipynb** - original Jypyter Notebook
+- **Analyze_ab_test_results_notebook_final.ipynb** - final project 
+- **Analyze_ab_test_results_notebook_final.html** - final proje
 ***
 
 ## References and Citations
