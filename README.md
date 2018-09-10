@@ -24,20 +24,18 @@ My goal was to work through this notebook to help the company understand if they
 | Statement of Conclusions                      | Conclusions should include not only statistical reasoning, but also practical reasoning for the situation.   |
 
 
-### Steps
-
-
-
 ### Submission
 
-The jupyter notebook will be exported to PDF and submitted as a github repository.
+The jupyter notebook will be exported to HTML and submitted as a github repository.
 
 ***
 
-## Important files
-
-
-
+## Project files
+- ab_data.csv
+- countries.csv
+- Analyze_ab_test_results_notebook_template.ipynb
+- Analyze_ab_test_results_notebook_final.ipynb
+- Analyze_ab_test_results_notebook_final.html
 ***
 
 ## References and Citations
