@@ -26,7 +26,7 @@ My goal was to work through this notebook to help the company understand if they
 
 ### Submission
 
-The jupyter notebook will be exported to pdf and ipynb, and submitted as a github repository.
+The jupyter notebook will be exported to ipynb and submitted as a github repository.
 
 ***
 
@@ -35,8 +35,4 @@ The jupyter notebook will be exported to pdf and ipynb, and submitted as a githu
 - **countries.csv** - dataset used for analysis
 - **Analyze_ab_test_results_notebook_template.ipynb** - original Jypyter Notebook
 - **Analyze_ab_test_results_notebook_final.ipynb** - final project 
-- **Analyze_ab_test_results_notebook_final.pdf** - final projet
 ***
-
-## References and Citations
-
