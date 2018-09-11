@@ -35,4 +35,5 @@ The jupyter notebook will be exported to ipynb and submitted as a github reposit
 - **countries.csv** - dataset used for analysis
 - **Analyze_ab_test_results_notebook_template.ipynb** - original Jypyter Notebook
 - **Analyze_ab_test_results_notebook_final.ipynb** - final project 
+- **Analyze_ab_test_results_notebook_final.html** - final project 
 ***
