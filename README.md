@@ -1,5 +1,5 @@
 # Udacity-Project-AB--Testing
-This project is part of Udacity's Data Analyst Nanodegree
+Project 4, Udacity's Data Analyst Nanodegree
 
 ***
 
