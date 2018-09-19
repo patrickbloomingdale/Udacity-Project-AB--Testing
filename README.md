@@ -23,11 +23,6 @@ My goal was to work through this notebook to help the company understand if they
 | Correct Values for All Statistical Results    | Docstrings, comments, and variable names enable readability of the code.                                     |
 | Statement of Conclusions                      | Conclusions should include not only statistical reasoning, but also practical reasoning for the situation.   |
 
-
-### Submission
-
-The jupyter notebook will be exported to ipynb and submitted as a github repository.
-
 ***
 
 ## Project files
